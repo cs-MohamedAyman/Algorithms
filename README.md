@@ -1,7 +1,7 @@
 # Algorithms
 Algorithms lectures for computer science students.
 
-## Part 1: Algorithms Basics
+## Part 1: Basic Algorithms
 
 ### Lecture 01 - [Analysis of Algorithms]()
 ### Lecture 02 - [Sorting Algorithms]()
