@@ -16,3 +16,5 @@ Algorithms lectures for computer science students.
 ### Lecture 08 - [Geometric Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2008%20-%20Geometric%20Algorithms)
 ### Lecture 09 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2009%20-%20Computer%20Graphics%20Algorithms)
 ### Lecture 10 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2010%20-%20Computer%20Graphics%20Algorithms)
+### Lecture 11 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2011%20-%20Computer%20Graphics%20Algorithms)
+### Lecture 12 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2012%20-%20Computer%20Graphics%20Algorithms)
