@@ -19,4 +19,4 @@ Algorithms lectures for computer science students.
 ### Lecture 11 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2011%20-%20Computer%20Graphics%20Algorithms) (Generating)
 ### Lecture 12 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2012%20-%20Computer%20Graphics%20Algorithms) (Filling), (Clipping)
 ### Lecture 13 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2013%20-%20Computer%20Graphics%20Algorithms) (Curves)
-### Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2014%20-%20Computer%20Graphics%20Algorithms) (Transformation)
+### Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2014%20-%20Computer%20Graphics%20Algorithms) (Transformations)
