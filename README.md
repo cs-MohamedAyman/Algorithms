@@ -20,3 +20,12 @@ Algorithms lectures for computer science students.
 ### Lecture 12 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2012%20-%20Computer%20Graphics%20Algorithms) (Filling), (Clipping)
 ### Lecture 13 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2013%20-%20Computer%20Graphics%20Algorithms) (Curves)
 ### Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2014%20-%20Computer%20Graphics%20Algorithms) (Transformations)
+
+## Part 3: Graph Algorithms `[25H]`
+
+### Lecture 15 - [Graph Algorithms]()
+### Lecture 16 - Advanced [Graph Algorithms]()
+### Lecture 17 - Shortest Path [Graph Algorithms]()
+### Lecture 18 - Spanning Tree [Graph Algorithms]()
+### Lecture 19 - [Greedy Algorithms]()
+### Lecture 20 - Advanced [Greedy Algorithms]()
