@@ -6,6 +6,7 @@ Algorithms lectures for computer science students.
 ### Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2001%20-%20Analysis%20of%20Algorithms)
 <details>
 <summary>Analysis of Algorithms</summary>
+<br>
 <ul>
   <li>Analysis Methods for Complexity</li>
   <li>Substitution Method</li>
@@ -17,6 +18,7 @@ Algorithms lectures for computer science students.
 ### Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2002%20-%20Sorting%20Algorithms)
 <details>
 <summary>Sorting Algorithms</summary>
+<br>
 <ul>
   <li>Introduction to Sorting Algorithms</li>
   <li>Bubble Sort Algorithm</li>
@@ -32,6 +34,7 @@ Algorithms lectures for computer science students.
 ### Lecture 03 - [Advanced Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2003%20-%20Advanced%20Sorting%20Algorithms)
 <details>
 <summary>Advanced Sorting Algorithms</summary>
+<br>
 <ul>
   <li>Introduction to Sorting Algorithms</li>
   <li>Count Sort Algorithm</li>
@@ -47,6 +50,7 @@ Algorithms lectures for computer science students.
 ### Lecture 04 - [Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2004%20-%20Searching%20Algorithms)
 <details>
 <summary>Searching Algorithms</summary>
+<br>
 <ul>
   <li>Introduction to Searching Algorithms</li>
   <li>Linear Search Algorithm</li>
@@ -59,6 +63,7 @@ Algorithms lectures for computer science students.
 ### Lecture 05 - [Advanced Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2005%20-%20Advanced%20Searching%20Algorithms)
 <details>
 <summary>Advanced Searching Algorithms</summary>
+<br>
 <ul>
   <li>Introduction to Searching Algorithms</li>
   <li>Interpolation Search Algorithm</li>
@@ -71,6 +76,7 @@ Algorithms lectures for computer science students.
 ### Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2006%20-%20Divide%20and%20Conquer%20Algorithms)
 <details>
 <summary>Divide and Conquer Algorithms</summary>
+<br>
 <ul>
   <li>Introduction to Divide and Conquer</li>
   <li>Sorting & Searching Algorithms</li>
