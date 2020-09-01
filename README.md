@@ -6,10 +6,10 @@ Algorithms lectures for computer science students.
 ### Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2001%20-%20Analysis%20of%20Algorithms)
 <details>
 	<summary>Sections</summary>
-- Analysis Methods for Complexity
-- Substitution Method
-- Recurrence Tree Method
-- Master Method
+- Analysis Methods for Complexity<br>
+- Substitution Method<br>
+- Recurrence Tree Method<br>
+- Master Method<br>
 </details>
 
 ### Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2002%20-%20Sorting%20Algorithms)
