@@ -4,13 +4,10 @@ Algorithms lectures for computer science students.
 ## Part 1: Basic Algorithms `[20H]`
 
 ### Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2001%20-%20Analysis%20of%20Algorithms)
-<details>
-	<summary>Sections</summary>
-- Analysis Methods for Complexity<br>
-- Substitution Method<br>
-- Recurrence Tree Method<br>
-- Master Method<br>
-</details>
+- Analysis Methods for Complexity
+- Substitution Method
+- Recurrence Tree Method
+- Master Method
 
 ### Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2002%20-%20Sorting%20Algorithms)
 ### Lecture 03 - [Advanced Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2003%20-%20Advanced%20Sorting%20Algorithms)
