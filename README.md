@@ -79,7 +79,6 @@ Algorithms lectures for computer science students.
 <br>
 <ul>
   <li>Introduction to Divide and Conquer</li>
-  <li>Sorting & Searching Algorithms</li>
   <li>Fast Power</li>
   <li>Closest Pair of Points</li>
   <li>Count Inversions</li>
