@@ -98,3 +98,14 @@ Algorithms lectures for computer science students.
 ### Lecture 12 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2012%20-%20Computer%20Graphics%20Algorithms) (Filling), (Clipping)
 ### Lecture 13 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2013%20-%20Computer%20Graphics%20Algorithms) (Curves)
 ### Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2014%20-%20Computer%20Graphics%20Algorithms) (Transformations)
+
+## Textbooks
+
+* ***Introduction to Algorithms***, Thomas H. Cormen
+* ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
+* ***Competitive Programming 3***, Steven Halim
+* ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
+* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***The Algorithm Design Manual***, Steven S. Skiena
+* ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
