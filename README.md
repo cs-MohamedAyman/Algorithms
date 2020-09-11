@@ -103,9 +103,9 @@ Algorithms lectures for computer science students.
 
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
+* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
+* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
 * ***Competitive Programming 3***, Steven Halim
 * ***Fundamental of Algorithms***, Gilles Brassard and Paul Bartley
-* ***Analysis of Algorithms An Active Learning Approach***, Jeffrey J. McConnell
-* ***Grokking Algorithms: An illustrated guide for programmers and other curious people***, Aditya Y. Bhargava
 * ***The Algorithm Design Manual***, Steven S. Skiena
 * ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
