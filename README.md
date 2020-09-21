@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms `60H`
 Algorithms lectures for computer science students.
 
 ## Part 1: Basic Algorithms `[25H]`
