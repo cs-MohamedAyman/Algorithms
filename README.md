@@ -1,7 +1,7 @@
 # Algorithms `60H`
 Algorithms lectures for computer science students.
 
-## `Part 1`: Basic Algorithms `[25H]`
+## `Part 1`: Basic Algorithms `25H`
 
 ### Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2001%20-%20Analysis%20of%20Algorithms)
 <details>
@@ -88,7 +88,7 @@ Algorithms lectures for computer science students.
 </ul>
 </details>
 
-## `Part 2`: Mathematical Algorithms `[35H]`
+## `Part 2`: Mathematical Algorithms `35H`
 
 ### Lecture 07 - [Mathematical Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2007%20-%20Mathematical%20Algorithms)
 ### Lecture 08 - [Advanced Mathematical Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2008%20-%20Advanced%20Mathematical%20Algorithms)
