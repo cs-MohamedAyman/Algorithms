@@ -99,7 +99,7 @@ Algorithms lectures for computer science students.
 ### Lecture 13 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2013%20-%20Computer%20Graphics%20Algorithms) (Curves)
 ### Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture%2014%20-%20Computer%20Graphics%20Algorithms) (Transformations)
 
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/organizations-logos/textbook.jpg">
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 ## Textbooks
 
