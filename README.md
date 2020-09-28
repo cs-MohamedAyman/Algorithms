@@ -128,3 +128,7 @@ Algorithms lectures for computer science students.
 * ***Computational Geometry*** by Saint Petersburg State University
 * ***Competitive Programmer's Core Skills*** by Saint Petersburg State University
 * ***Analysis of Algorithms*** by Princeton University
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## Youtube-Playlists
