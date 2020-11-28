@@ -14,12 +14,12 @@ Algorithms lectures for computer science students.
 
 ## `Part 2:` Graph Algorithms and Greedy Algorithms `25H`
 
-## Lecture 07 - [Graph Algorithms]()
-## Lecture 08 - [Shortest Path Graph Algorithms]()
-## Lecture 09 - [Spanning Tree Graph Algorithms]()
-## Lecture 10 - [Advanced Graph Algorithms]()
-## Lecture 11 - [Greedy Algorithms I]()
-## Lecture 12 - [Greedy Algorithms II]()
+## Lecture 07 - [Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Graph-Algorithms)
+## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Graph-Algorithms)
+## Lecture 09 - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Spanning-Tree-Graph-Algorithms)
+## Lecture 10 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
+## Lecture 11 - [Greedy Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms-I)
+## Lecture 12 - [Greedy Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Greedy-Algorithms-II)
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
