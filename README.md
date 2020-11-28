@@ -12,7 +12,7 @@ Algorithms lectures for computer science students.
 ## Lecture 05 - [Advanced Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Advanced-Searching-Algorithms)
 ## Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
 
-## `Part 2:` Graph Algorithms & Greedy Algorithms `25H`
+## `Part 2:` Graph Algorithms and Greedy Algorithms `25H`
 
 ## Lecture 07 - [Graph Algorithms]()
 ## Lecture 08 - [Shortest Path Graph Algorithms]()
