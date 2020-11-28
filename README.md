@@ -6,34 +6,20 @@ Algorithms lectures for computer science students.
 ## `Part 1:` Basic Algorithms `25H`
 
 ## Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Analysis-of-Algorithms)
-
 ## Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms)
-
 ## Lecture 03 - [Advanced Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-03-Advanced-Sorting-Algorithms)
-
 ## Lecture 04 - [Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-04-Searching-Algorithms)
-
 ## Lecture 05 - [Advanced Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Advanced-Searching-Algorithms)
-
 ## Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
 
-## `Part 2:` Mathematical Algorithms `35H`
+## `Part 2:` Graph Algorithms & Greedy Algorithms `25H`
 
-## Lecture 07 - [Mathematical Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Mathematical-Algorithms)
-
-## Lecture 08 - [Advanced Mathematical Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Advanced-Mathematical-Algorithms)
-
-## Lecture 09 - [Geometric Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Geometric-Algorithms)
-
-## Lecture 10 - [Advanced Geometric Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Geometric-Algorithms)
-
-## Lecture 11 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Computer-Graphics-Algorithms) (Generating)
-
-## Lecture 12 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Computer-Graphics-Algorithms) (Filling), (Clipping)
-
-## Lecture 13 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Computer-Graphics-Algorithms) (Curves)
-
-## Lecture 14 - [Computer Graphics Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Computer-Graphics-Algorithms) (Transformations)
+## Lecture 07 - [Graph Algorithms]()
+## Lecture 08 - [Shortest Path Graph Algorithms]()
+## Lecture 09 - [Spanning Tree Graph Algorithms]()
+## Lecture 10 - [Advanced Graph Algorithms]()
+## Lecture 11 - [Greedy Algorithms I]()
+## Lecture 12 - [Greedy Algorithms II]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
