@@ -2,18 +2,16 @@
 using namespace std;
 
 void heapify(int arr[], int n, int i) {
-    int lf = 2 * i + 1;
-    int rt = 2 * i + 2;
     int j = -1;
     while (i != j) {
         j = i;
-        if (rt < n && arr[rt] > arr[i])
-            i = rt;
-        if (lf < n && arr[lf] > arr[i])
-            i = lf;
+        int left_idx   = 2 * i + 1;
+        int right_idx   = 2 * i + 2;
+        if (left_idx   < n && arr[left_idx] > arr[i])
+            i = left_idx  ;
+        if (right_idx < n && arr[right_idx] > arr[i])
+            i = right_idx;
         swap(arr[i], arr[j]);
-        lf = 2 * i + 1;
-        rt = 2 * i + 2;
     }
 }
 
