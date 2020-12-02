@@ -5,9 +5,9 @@ void heapify(int arr[], int n, int i) {
     int j = -1;
     while (i != j) {
         j = i;
-        int left_idx   = 2 * i + 1;
-        int right_idx   = 2 * i + 2;
-        if (left_idx   < n && arr[left_idx] > arr[i])
+        int left_idx  = 2 * i + 1;
+        int right_idx = 2 * i + 2;
+        if (left_idx < n && arr[left_idx] > arr[i])
             i = left_idx  ;
         if (right_idx < n && arr[right_idx] > arr[i])
             i = right_idx;
