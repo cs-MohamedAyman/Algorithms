@@ -2,19 +2,17 @@
 using namespace std;
 
 bool jump_search(int arr[], int n, int item) {
-	int step = sqrt(n);
-	int i = 0;
-	while (i < n && arr[i] < item)
-		i = i + step;
-    if (i >= n)
-        i -= step;
-	int j = i;
-	while (j < min(i + step, n)) {
+    int step = sqrt(n);
+    int i = 0;
+    while (i + step < n && arr[i + step] <= item)
+        i = i + step;
+    int j = i;
+    while (j < min(i + step, n)) {
         if (arr[j] == item)
-			return true;
-		j = j + 1;
+            return true;
+        j = j + 1;
     }
-	return false;
+    return false;
 }
 
 int main() {
