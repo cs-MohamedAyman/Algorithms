@@ -1,9 +1,9 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Algorithms `50H`
+# Algorithms `60H`
 Algorithms lectures for computer science students.
 
-## `Part 1:` Basic Algorithms `25H`
+## `Part 1:` Basic Algorithms `30H`
 
 ## Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Analysis-of-Algorithms)
 ## Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms)
@@ -12,7 +12,7 @@ Algorithms lectures for computer science students.
 ## Lecture 05 - [Advanced Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Advanced-Searching-Algorithms)
 ## Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
 
-## `Part 2:` Graph Algorithms and Greedy Algorithms `25H`
+## `Part 2:` Graph Algorithms and Dynammic Programming `30H`
 
 ## Lecture 07 - [Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Graph-Algorithms)
 ## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Graph-Algorithms)
@@ -20,6 +20,8 @@ Algorithms lectures for computer science students.
 ## Lecture 10 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
 ## Lecture 11 - [Greedy Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms-I)
 ## Lecture 12 - [Greedy Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Greedy-Algorithms-II)
+## Lecture 13 - [Dynammic Programming I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Dynamic-Programming-I)
+## Lecture 14 - [Dynammic Programming II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Dynamic-Programming-II)
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
