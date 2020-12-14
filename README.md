@@ -6,10 +6,10 @@ Algorithms lectures for computer science students.
 ## `Part 1:` Basic Algorithms `30H`
 
 ## Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Analysis-of-Algorithms)
-## Lecture 02 - [Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms)
-## Lecture 03 - [Advanced Sorting Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-03-Advanced-Sorting-Algorithms)
-## Lecture 04 - [Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-04-Searching-Algorithms)
-## Lecture 05 - [Advanced Searching Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Advanced-Searching-Algorithms)
+## Lecture 02 - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms-I)
+## Lecture 03 - [Sorting Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-03-Sorting-Algorithms-II)
+## Lecture 04 - [Searching Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-04-Searching-Algorithms-I)
+## Lecture 05 - [Searching Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Searching-Algorithms-II)
 ## Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
 
 ## `Part 2:` Graph Algorithms and Dynammic Programming `30H`
