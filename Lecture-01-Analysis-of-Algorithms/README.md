@@ -8,3 +8,7 @@
 - ***Substitution Method***
 - ***Recurrence Tree Method***
 - ***Master Method***
+- ***Amortized Analysis***
+- ***Aggregate Method***
+- ***Accounting Method***
+- ***Potential Method***
