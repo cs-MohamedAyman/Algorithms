@@ -5,9 +5,9 @@
 ## Table of Content
 
 - ***Analysis Methods for Complexity***
+- ***Master Method***
 - ***Substitution Method***
 - ***Recurrence Tree Method***
-- ***Master Method***
 - ***Amortized Analysis***
 - ***Aggregate Method***
 - ***Accounting Method***
