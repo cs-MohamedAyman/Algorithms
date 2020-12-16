@@ -4,10 +4,11 @@
 
 ## Table of Content
 
-- ***Introduction to Graphs***
+- ***Introduction to Graph***
 - ***Directed vs. Undirected Graph***
 - ***Breadth First Traverse***
 - ***Depth First Traverse***
 - ***Cyclic vs. Acyclic Graph***
 - ***Connected vs. Disconnected Graph***
+- ***Strongly Connected Components***
 - ***Time Complexity and Space Complexity***
