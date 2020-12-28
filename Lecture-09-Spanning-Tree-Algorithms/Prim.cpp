@@ -18,7 +18,7 @@ void add_directed_edge(int u, int v, int w) {
     adj[u].push_back({v, w});
 }
 
-void dijkstra(int src) {
+void prim(int src) {
     dis.assign(n, INF);
     prt.assign(n, -1);
     vector<bool> vis(n, 0);
@@ -59,9 +59,9 @@ int main() {
     add_undirected_edge(6, 7, 1); 
     add_undirected_edge(6, 8, 6); 
     add_undirected_edge(7, 8, 7); 
-    dijkstra(0);
+    prim(0);
     
-    cout << "Distance :\n";
+    cout << "Prim :\n";
     for (int i = 1; i < n; i++) 
         cout << i << ' ' << prt[i] << ' ' << dis[i] << '\n'; 
     cout << '\n';
