@@ -13,10 +13,6 @@ void add_undirected_edge(int u, int v, int w) {
     adj[u].push_back({v, w});
     adj[v].push_back({u, w});
 }
-// This function adds edges between given vertices (directed edge)
-void add_directed_edge(int u, int v, int w) {
-    adj[u].push_back({v, w});
-}
 
 void dijkstra(int src) {
     dis.assign(n, INF);
