@@ -60,11 +60,11 @@ int main() {
     dijkstra(0);
     
     cout << "Distance :\n";
-    for (auto i : dis) 
-        cout << i << ' '; 
+    for (int i = 0; i < n; i++) 
+        cout << i << ' ' << dis[i] << '\n'; 
     cout << '\n';
     cout << "Parent :\n";
-    for (auto i : prt) 
-        cout << i << ' '; 
+    for (int i = 0; i < prt.size(); i++) 
+        cout << i << ' ' << prt[i] << '\n'; 
     cout << '\n';
 }
