@@ -15,8 +15,8 @@ Algorithms lectures for computer science students.
 ## `Part 2:` Graph Algorithms and Dynammic Programming `30H`
 
 ## Lecture 07 - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Introduction-to-Graph)
-## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Graph-Algorithms)
-## Lecture 09 - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Spanning-Tree-Graph-Algorithms)
+## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Algorithms)
+## Lecture 09 - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Spanning-Tree-Algorithms)
 ## Lecture 10 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
 ## Lecture 11 - [Greedy Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms-I)
 ## Lecture 12 - [Greedy Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Greedy-Algorithms-II)
