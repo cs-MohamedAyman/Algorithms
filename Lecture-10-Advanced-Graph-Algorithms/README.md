@@ -4,10 +4,11 @@
 
 ## Table of Content
 
-- ***Introduction to Advanced Graph Algorithms***
 - ***Topological Sort***
-- ***Backtracking***
-- ***Maximum Flow networks***
+- ***Negative Cycle in the Graph***
+- ***Lowest Common Ancestor***
+- ***Maximum Flow Networks***
 - ***The Ford Fulkerson Method***
 - ***Maximum Bipartite Matching***
 - ***Push-relabel Algorithms***
+- ***D´Esopo-Pape Algorithm***
