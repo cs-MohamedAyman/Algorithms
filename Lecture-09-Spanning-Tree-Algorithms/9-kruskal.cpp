@@ -17,15 +17,11 @@ void add_undirected_edge(int u, int v, int w) {
     edges.push_back({w, {u, v}});
 }
 
-bool cmp(pair<int, pair<int, int>> a, pair<int, pair<int, int>> b) {
-    return a.first < b.first;
-}
-
 void kruskal() {
     vector<int> edge_id(n);
     for (int i = 0; i < n; i++)
         edge_id[i] = i;
-    sort(edges.begin(), edges.end(), cmp);
+    sort(edges.begin(), edges.end());
     for (auto e : edges) {
         if (edge_id[e.second.first] == edge_id[e.second.second])
             continue;
