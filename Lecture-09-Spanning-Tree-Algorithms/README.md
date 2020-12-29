@@ -7,4 +7,8 @@
 - ***Introduction to Spanning Tree Algorithms***
 - ***Prim Algorithm***
 - ***Kruskal Algorithm***
+- ***Kruskal Algorithm using Disjoint Set***
+- ***Kruskal Algorithm using Lowest Common Ancestor***
 - ***Boruvka Algorithm***
+- ***Kirchhoff Theorem***
+- ***Prüfer Code***
