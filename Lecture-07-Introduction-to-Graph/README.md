@@ -11,4 +11,4 @@
 - ***Cyclic vs. Acyclic Graph***
 - ***Connected vs. Disconnected Graph***
 - ***Strongly Connected Components***
-- ***Time Complexity and Space Complexity***
+- ***Bridges and Articulation Points***
