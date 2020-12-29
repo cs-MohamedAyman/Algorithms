@@ -7,6 +7,7 @@
 - ***Introduction to Shortest Path Algorithms***
 - ***The Bellman Ford Algorithm***
 - ***Dijkstra Algorithm***
+- ***Dijkstra Algorithm using Heap | Balanced Tree***
 - ***Dial Algorithm***
 - ***The Floyd Warshall Algorithm***
 - ***Johnson's Algoirthm***
