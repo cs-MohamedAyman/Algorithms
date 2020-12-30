@@ -5,7 +5,7 @@ int const N = 1e3+3;
 
 int memo[N][N];
 
-int lcs(char *X, char *Y, int m, int n) {
+int lcs(char* X, char* Y, int m, int n) {
     if (m == -1 || n == -1)
         return 0;
     if (memo[m][n] != -1)
@@ -24,7 +24,7 @@ int lcs(char *X, char *Y, int m, int n) {
 
 int dp[N][N];
 
-int lcs_iterative(char *X, char *Y, int m, int n) {  
+int lcs_iterative(char* X, char* Y, int m, int n) {  
     for (int i = 0; i <= m; i++) {
         for (int j = 0; j <= n; j++) {
             if (i == 0 || j == 0)
