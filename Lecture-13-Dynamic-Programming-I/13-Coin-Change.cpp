@@ -35,13 +35,11 @@ int coin_change_iterative(int* arr, int n, int m) {
     // Fill rest of the table entries in bottom up manner  
     for (int i = 1; i <= m; i++) { 
         for (int j = 0; j < n; j++) {
-            int x, y;
+            int x = 0, y = 0;
             // Count of solutions including arr[j]
             if (i-arr[j] >= 0) x = dp[i-arr[j]][j];
-            else               x = 0;
             // Count of solutions excluding arr[j]
             if (j >= 1) y = dp[i][j-1];
-            else        y = 0;
             // total count
             dp[i][j] = x + y;
         }
