@@ -23,7 +23,6 @@ int fib_dp(int n) {
 }
 
 int main() {
-
     cout << "fib 7: " << fib(7) << '\n';
     cout << "fib 6: " << fib(6) << '\n';
     cout << "fib 5: " << fib(5) << '\n';
@@ -38,5 +37,4 @@ int main() {
     cout << "fib 4: " << fib_dp(4) << '\n';
     cout << "fib 3: " << fib_dp(3) << '\n';
     cout << "fib 2: " << fib_dp(2) << '\n';
-    
 }
