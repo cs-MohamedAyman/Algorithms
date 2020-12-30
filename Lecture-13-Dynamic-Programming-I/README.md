@@ -7,7 +7,7 @@
 - ***Introduction to Dynamic Programming***
 - ***0-1 Knapsack***
 - ***Longest Common Subsequence***
-- ***Shortest Common Supersequence***
+- ***Subsequence Sum***
 - ***Longest Increasing Subsequence***
 - ***The Levenshtein Distance***
 - ***Matrix Chain Multiplication***
