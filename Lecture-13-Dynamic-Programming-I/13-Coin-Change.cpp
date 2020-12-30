@@ -20,7 +20,10 @@ int coin_change(int* arr, int n, int m) {
     // count is sum of solutions
     // (i) including S[m-1]
     // (ii) excluding S[m-1]
-    return coin_change(arr, n-1, m) + coin_change(arr, n, m-arr[n-1]);
+    int choice1 = coin_change(arr, n-1, m);
+    int choice2 = coin_change(arr, n, m-arr[n-1]);
+    memo[n][m] = choice1 + choice2;
+    return memo[n][m];
 }
 
 int dp[N][N];
