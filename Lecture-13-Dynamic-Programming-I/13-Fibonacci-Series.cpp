@@ -2,10 +2,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int fib_recursion(int n) {
+int fib(int n) {
     if (n == 0 || n == 1)
         return n;
-    return fib_recursion(n-1) + fib_recursion(n-2);
+    return fib(n-1) + fib(n-2);
 }
 
 const int N = 2e5+3;
@@ -24,12 +24,12 @@ int fib_dp(int n) {
 
 int main() {
 
-    cout << "fib 7: " << fib_recursion(7) << '\n';
-    cout << "fib 6: " << fib_recursion(6) << '\n';
-    cout << "fib 5: " << fib_recursion(5) << '\n';
-    cout << "fib 4: " << fib_recursion(4) << '\n';
-    cout << "fib 3: " << fib_recursion(3) << '\n';
-    cout << "fib 2: " << fib_recursion(2) << '\n';
+    cout << "fib 7: " << fib(7) << '\n';
+    cout << "fib 6: " << fib(6) << '\n';
+    cout << "fib 5: " << fib(5) << '\n';
+    cout << "fib 4: " << fib(4) << '\n';
+    cout << "fib 3: " << fib(3) << '\n';
+    cout << "fib 2: " << fib(2) << '\n';
     
     memset(dp, -1, sizeof dp);
     cout << "fib 7: " << fib_dp(7) << '\n';
