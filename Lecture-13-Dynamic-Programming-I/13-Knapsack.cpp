@@ -45,12 +45,34 @@ int knapsack_iterative(int total_wt, int* wt, int* val, int n) {
     return dp[n][total_wt];
 }
 
+void print_solution(int total_wt, int* wt, int* val, int n) {
+    // stores the result of Knapsack 
+    int res = dp[n][total_wt];
+    cout << "Solution is " << res << " and the Selected items are\n";
+    int curr_w = total_wt;
+    for (int i = n; i > 0 && res > 0; i--) {
+        // either the result comes from the top (dp[i-1][w]) or 
+        // from (val[i-1] + dp[i-1][w-wt[i-1]]) as in Knapsack table. 
+        // If it comes from the latter one/ it means the item is included. 
+        if (res == dp[i-1][curr_w])
+            continue;
+        else {
+            // This item is included. 
+            cout << "index " << i-1 << " item " << wt[i-1] << '\n';
+            // Since this weight is included its value is deducted 
+            res = res - val[i - 1];
+            curr_w -= wt[i - 1];
+        }
+    }
+}
+
 int main() {
-    int n = 3;
-    int val[] = {60, 100, 120}; 
-    int wt[] = {10, 20, 30}; 
-    int total_wt = 50;
+    int n = 7;
+    int val[] = {60, 100, 120, 180, 230, 110, 110}; 
+    int wt[] = {10, 20, 30, 40, 50, 30, 20}; 
+    int total_wt = 120;
     memset(memo, -1, sizeof memo);
     cout << "(Recursive) knapsack " << knapsack(total_wt, wt, val, n) << '\n';
     cout << "(Iterative) knapsack " << knapsack_iterative(total_wt, wt, val, n) << '\n';
+    print_solution(total_wt, wt, val, n);
 }
