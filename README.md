@@ -18,8 +18,8 @@ Algorithms lectures for computer science students.
 ## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Algorithms)
 ## Lecture 09 - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Spanning-Tree-Algorithms)
 ## Lecture 10 - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
-## Lecture 11 - [Greedy Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms-I)
-## Lecture 12 - [Greedy Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Greedy-Algorithms-II)
+## Lecture 11 - [Greedy Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms)
+## Lecture 12 - [Greedy Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Brute-Force)
 ## Lecture 13 - [Dynammic Programming I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Dynamic-Programming-I)
 ## Lecture 14 - [Dynammic Programming II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Dynamic-Programming-II)
 
