@@ -3,4 +3,3 @@
 # Lecture 12 - Brute Force Algorithms
 
 ## Table of Content
-
