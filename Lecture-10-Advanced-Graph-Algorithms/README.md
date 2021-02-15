@@ -2,13 +2,42 @@
 
 # Lecture 10 - Advanced Graph Algorithms
 
-## Table of Content
+<details>
+	<summary>10.1- Topological Sort</summary>
 
-- ***Topological Sort***
-- ***Negative Cycle in the Graph***
-- ***Lowest Common Ancestor***
-- ***Maximum Flow Networks***
-- ***The Ford Fulkerson Method***
-- ***Maximum Bipartite Matching***
-- ***Push-relabel Algorithms***
-- ***D´Esopo-Pape Algorithm***
+</details>
+
+<details>
+	<summary>10.2- Negative Cycle in the Graph</summary>
+
+</details>
+
+<details>
+	<summary>10.3- Lowest Common Ancestor</summary>
+
+</details>
+
+<details>
+	<summary>10.4- Maximum Flow Networks</summary>
+
+</details>
+
+<details>
+	<summary>10.5- The Ford Fulkerson Method</summary>
+
+</details>
+
+<details>
+	<summary>10.6- Maximum Bipartite Matching</summary>
+
+</details>
+
+<details>
+	<summary>10.7- Push-relabel Algorithms</summary>
+
+</details>
+
+<details>
+	<summary>10.8- D´Esopo-Pape Algorithm</summary>
+
+</details>

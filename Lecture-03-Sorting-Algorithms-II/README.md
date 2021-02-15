@@ -2,13 +2,42 @@
 
 # Lecture 03 - Sorting Algorithms II
 
-## Table of Content
+<details>
+	<summary>03.1- Introduction to Sorting Algorithms</summary>
 
-- ***Introduction Sorting Algorithms***
-- ***Count Sort Algorithm***
-- ***Bucket Sort Algorithm***
-- ***Radix Sort Algorithm***
-- ***Bitonic Sort Algorithm***
-- ***Pigeonhole Sort Algorithm***
-- ***Tim Sort Algorithm***
-- ***Cartesian Sort Algorithm***
+</details>
+
+<details>
+	<summary>03.2- Count Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.3- Bucket Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.4- Radix Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.5- Bitonic Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.6- Pigeonhole Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.7- Tim Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>03.8- Cartesian Sort Algorithm</summary>
+
+</details>

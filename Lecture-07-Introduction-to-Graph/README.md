@@ -2,13 +2,42 @@
 
 # Lecture 07 - Introduction to Graph
 
-## Table of Content
+<details>
+	<summary>07.1- Introduction to Graph</summary>
 
-- ***Introduction to Graph***
-- ***Directed vs. Undirected Graph***
-- ***Breadth First Traverse***
-- ***Depth First Traverse***
-- ***Cyclic vs. Acyclic Graph***
-- ***Connected vs. Disconnected Graph***
-- ***Strongly Connected Components***
-- ***Bridges and Articulation Points***
+</details>
+
+<details>
+	<summary>07.2- Directed vs. Undirected Graph</summary>
+
+</details>
+
+<details>
+	<summary>07.3- Breadth First Traverse</summary>
+
+</details>
+
+<details>
+	<summary>07.4- Depth First Traverse</summary>
+
+</details>
+
+<details>
+	<summary>07.5- Cyclic vs. Acyclic Graph</summary>
+
+</details>
+
+<details>
+	<summary>07.6- Connected vs. Disconnected Graph</summary>
+
+</details>
+
+<details>
+	<summary>07.7- Strongly Connected Components</summary>
+
+</details>
+
+<details>
+	<summary>07.8- Bridges and Articulation Points</summary>
+
+</details>

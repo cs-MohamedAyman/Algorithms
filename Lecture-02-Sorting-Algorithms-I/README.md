@@ -2,13 +2,42 @@
 
 # Lecture 02 - Sorting Algorithms I
 
-## Table of Content
+<details>
+	<summary>02.1- Introduction to Sorting Algorithms</summary>
 
-- ***Introduction to Sorting Algorithms***
-- ***Bubble Sort Algorithm***
-- ***Insertion Sort Algorithm***
-- ***Selection Sort Algorithm***
-- ***Shell Sort Algorithm***
-- ***Merge Sort Algorithm***
-- ***Quick Sort Algorithm***
-- ***Heap Sort Algorithm***
+</details>
+
+<details>
+	<summary>02.2- Bubble Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.3- Insertion Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.4- Selection Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.5- Shell Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.6- Merge Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.7- Quick Sort Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>02.8- Heap Sort Algorithm</summary>
+
+</details>

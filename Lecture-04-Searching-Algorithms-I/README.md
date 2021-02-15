@@ -2,10 +2,27 @@
 
 # Lecture 04 - Searching Algorithms I
 
-## Table of Content
+<details>
+	<summary>04.1- Introduction to Searching Algorithms</summary>
 
-- ***Introduction to Searching Algorithms***
-- ***Linear Search Algorithm***
-- ***Jump Search Algorithm***
-- ***Binary Search Algorithm***
-- ***Ternary Search Algorithm***
+</details>
+
+<details>
+	<summary>04.2- Linear Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>04.3- Jump Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>04.4- Binary Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>04.5- Ternary Search Algorithm</summary>
+
+</details>

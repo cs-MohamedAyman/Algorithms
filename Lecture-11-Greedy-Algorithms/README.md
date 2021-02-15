@@ -2,11 +2,32 @@
 
 # Lecture 11 - Greedy Algorithms
 
-## Table of Content
+<details>
+	<summary>11.1- Introduction to Greedy Algorithms</summary>
 
-- ***Introduction to Greedy Algorithms***
-- ***Standard Greedy Algorithms***
-- ***Greedy Algorithms in Arrays***
-- ***Greedy Algorithms in Graphs***
-- ***Greedy Algorithms in Operating Systems***
-- ***Approximate Greedy Algorithms for NP Complete Problems***
+</details>
+
+<details>
+	<summary>11.2- Standard Greedy Algorithms</summary>
+
+</details>
+
+<details>
+	<summary>11.3- Greedy Algorithms in Arrays</summary>
+
+</details>
+
+<details>
+	<summary>11.4- Greedy Algorithms in Graphs</summary>
+
+</details>
+
+<details>
+	<summary>11.5- Greedy Algorithms in Operating Systems</summary>
+
+</details>
+
+<details>
+	<summary>11.6- Approximate Greedy Algorithms for NP Complete Problems</summary>
+
+</details>

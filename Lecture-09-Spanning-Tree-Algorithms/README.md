@@ -2,13 +2,42 @@
 
 # Lecture 09 - Spanning Tree Algorithms
 
-## Table of Content
+<details>
+	<summary>09.1- Introduction to Spanning Tree Algorithms</summary>
 
-- ***Introduction to Spanning Tree Algorithms***
-- ***Prim Algorithm***
-- ***Kruskal Algorithm***
-- ***Kruskal Algorithm using Disjoint Set***
-- ***Kruskal Algorithm using Lowest Common Ancestor***
-- ***Boruvka Algorithm***
-- ***Kirchhoff Theorem***
-- ***Prüfer Code***
+</details>
+
+<details>
+	<summary>09.2- Prim Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>09.3- Kruskal Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>09.4- Kruskal Algorithm using Disjoint Set</summary>
+
+</details>
+
+<details>
+	<summary>09.5- Kruskal Algorithm using Lowest Common Ancestor</summary>
+
+</details>
+
+<details>
+	<summary>09.6- Boruvka Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>09.7- Kirchhoff Theorem</summary>
+
+</details>
+
+<details>
+	<summary>09.8- Prüfer Code</summary>
+
+</details>

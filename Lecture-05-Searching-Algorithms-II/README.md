@@ -2,10 +2,27 @@
 
 # Lecture 05 - Searching Algorithms II
 
-## Table of Content
+<details>
+	<summary>05.1- Introduction to Searching Algorithms</summary>
 
-- ***Introduction to Advanced Searching Algorithms***
-- ***Interpolation Search Algorithm***
-- ***Fibonacci Search Algorithm***
-- ***Exponential Search Algorithm***
-- ***Sublist Search Algorithm***
+</details>
+
+<details>
+	<summary>05.2- Interpolation Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>05.3- Fibonacci Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>05.4- Exponential Search Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>05.5- Sublist Search Algorithm</summary>
+
+</details>

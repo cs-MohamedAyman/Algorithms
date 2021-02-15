@@ -2,13 +2,42 @@
 
 # Lecture 08 - Shortest Path Algorithms
 
-## Table of Content
+<details>
+	<summary>08.1- Introduction to Shortest Path Algorithms</summary>
 
-- ***Introduction to Shortest Path Algorithms***
-- ***The Bellman Ford Algorithm***
-- ***Dijkstra Algorithm***
-- ***Dijkstra Algorithm using Heap | Balanced Binary Tree***
-- ***Dial Algorithm***
-- ***The Floyd Warshall Algorithm***
-- ***Johnson's Algoirthm***
-- ***Shortest Path in Acyclc Graph***
+</details>
+
+<details>
+	<summary>08.2- The Bellman Ford Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>08.3- Dijkstra Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>08.4- Dijkstra Algorithm using Heap | Balanced Binary Tree</summary>
+
+</details>
+
+<details>
+	<summary>08.5- Dial Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>08.6- The Floyd Warshall Algorithm</summary>
+
+</details>
+
+<details>
+	<summary>08.7- Johnson's Algoirthm</summary>
+
+</details>
+
+<details>
+	<summary>08.8- Shortest Path in Acyclc Graph</summary>
+
+</details>

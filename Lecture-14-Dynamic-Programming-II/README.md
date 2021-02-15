@@ -2,5 +2,32 @@
 
 # Lecture 14 - Dynamic Programming II
 
-## Table of Content
+<details>
+	<summary>14.1- Introduction to Dynamic Programming</summary>
 
+</details>
+
+<details>
+	<summary>14.2- State Space Reduction</summary>
+
+</details>
+
+<details>
+	<summary>14.3- Dynamic Programming and Bit Masking</summary>
+
+</details>
+
+<details>
+	<summary>14.4- Dynamic Programming in Graphs</summary>
+
+</details>
+
+<details>
+	<summary>14.5- Dynamic Programming in Binary Trees</summary>
+
+</details>
+
+<details>
+	<summary>14.6- Dynamic Programming in Advanced Trees</summary>
+
+</details>
