@@ -1,9 +1,9 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Algorithms-Analysis-and-Design `60H`
+# Algorithms-Analysis-and-Design `80H`
 Algorithms analysis and design lectures for computer science students.
 
-## `Part 1:` Basic Algorithms `30H`
+## `Part 1:` Basic Algorithms `40H`
 
 ## Lecture 01 - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Complexity-Analysis)
 ## Lecture 02 - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms-I)
@@ -12,7 +12,7 @@ Algorithms analysis and design lectures for computer science students.
 ## Lecture 05 - [Searching Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Searching-Algorithms-II)
 ## Lecture 06 - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
 
-## `Part 2:` Graph Algorithms and Dynammic Programming `30H`
+## `Part 2:` Graph Algorithms and Dynammic Programming `40H`
 
 ## Lecture 07 - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Introduction-to-Graph)
 ## Lecture 08 - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Algorithms)
