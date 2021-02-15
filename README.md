@@ -5,7 +5,7 @@ Algorithms analysis and design lectures for computer science students.
 
 ## `Part 1:` Basic Algorithms `30H`
 
-## Lecture 01 - [Analysis of Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Complexity-Analysis)
+## Lecture 01 - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Complexity-Analysis)
 ## Lecture 02 - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms-I)
 ## Lecture 03 - [Sorting Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-03-Sorting-Algorithms-II)
 ## Lecture 04 - [Searching Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-04-Searching-Algorithms-I)
