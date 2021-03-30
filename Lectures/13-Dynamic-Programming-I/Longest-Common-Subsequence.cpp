@@ -22,6 +22,17 @@ int lcs(char* X, char* Y, int m, int n) {
     }
 }
 
+string solution(char* X, char* Y, int m, int n) {
+    if (m == -1 || n == -1)
+        return "";
+    if (X[m] == Y[n])
+        return solution(X, Y, m-1, n-1) + X[m];
+    if (memo[m-1][n] > memo[m][n-1])
+        return solution(X, Y, m-1, n);
+    else
+        return solution(X, Y, m, n-1);
+}
+
 int dp[N][N];
 
 int lcs_iterative(char* X, char* Y, int m, int n) {
@@ -38,33 +49,21 @@ int lcs_iterative(char* X, char* Y, int m, int n) {
     return dp[m][n];
 }
 
-void print_solution(char* X, char* Y, int m, int n) {
-    // Following code is used to print LCS
+string solution_iterative(char* X, char* Y, int m, int n) {
     int res = dp[m][n];
-    // Create a character array to store the lcs string
-    char lcs_res[res+1];
-    // Set the terminating character
-    lcs_res[res] = '\0';
-    // Start from the right-most-bottom-most corner and 
-    // one by one store characters in lcs[] 
+	char lcs_res[res];
     int i = m, j = n;
     while (i > 0 && j > 0) { 
-        // If current character in X and Y are same, then current character is part of LCS 
         if (X[i-1] == Y[j-1]) {
-            // Put current character in result
             lcs_res[res-1] = X[i-1];
-            // reduce values of i, j and index
-            i--; 
-            j--; 
-            res--;
+            i --, j --, res --;
         }
-        // If not same, then find the larger of two and go in the direction of larger value 
         else if (dp[i-1][j] > dp[i][j-1]) 
-            i--; 
-        else
-            j--; 
+			i --;
+		else 
+			j --;
    }
-   cout << "LCS of " << X << " and " << Y << " is " << lcs_res;     
+   return lcs_res;
 }
 
 int main() {
@@ -74,6 +73,7 @@ int main() {
     int n = strlen(Y);
     memset(memo, -1, sizeof memo);
     cout << "(Recursive) Length of LCS is " << lcs(X, Y, m-1, n-1) << '\n';
+    cout << "(Recursive) LCS of " << X << " and " << Y << " is " << solution(X, Y, m, n) << '\n';
     cout << "(Iterative) Length of LCS is " << lcs_iterative(X, Y, m, n) << '\n';
-    print_solution(X, Y, m, n);
+    cout << "(Iterative) LCS of " << X << " and " << Y << " is " << solution_iterative(X, Y, m, n) << '\n';
 }
