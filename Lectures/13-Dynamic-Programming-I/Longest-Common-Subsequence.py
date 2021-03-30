@@ -46,7 +46,7 @@ def solution_iterative(X, Y, m, n):
     while i > 0 and j > 0:
         if X[i-1] == Y[j-1]:
             lcs_res[res-1] = X[i-1]
-            i, j, res = i - 1, j - 1, res - 1
+            i -= 1 ; j -= 1 ; res -= 1
         elif dp[i-1][j] > dp[i][j-1]: 
             i -= 1
         else:
