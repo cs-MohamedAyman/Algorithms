@@ -31,7 +31,7 @@ def lcs_iterative(X, Y, m, n):
 
 def print_solution(X, Y, m, n):
     # Following code is used to print LCS
-    res = dp[m][n];
+    res = dp[m][n]
     # Create a character array to store the lcs string
     lcs_res = [''] * res
     # Start from the right-most-bottom-most corner and 
