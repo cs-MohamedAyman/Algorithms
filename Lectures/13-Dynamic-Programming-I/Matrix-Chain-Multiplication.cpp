@@ -21,7 +21,6 @@ int matrix_chain(int* p, int i, int j) {
 int dp[N][N];
 
 int matrix_chain_iterative(int* p, int n) {
-    // cost is zero when multiplying one matrix
     for (int i = 1; i < n; i++)
         dp[i][i] = 0;
     for (int L = 1; L < n; L++) {
