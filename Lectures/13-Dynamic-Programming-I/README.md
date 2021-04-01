@@ -18,7 +18,7 @@
 </details>
 
 <details>
-	<summary>13.4- Subsequence Sum</summary>
+	<summary>13.4- Subset Sum</summary>
 
 </details>
 
