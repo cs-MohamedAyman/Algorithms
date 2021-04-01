@@ -37,7 +37,6 @@ void solution(int total_wt, int* wt, int* val, int n, vector<int> &v) {
         solution(total_wt, wt, val, n-1, v2);
         for (int i : v2) v.push_back(i);
     }
-    return;
 }
 
 int dp[N][N];
