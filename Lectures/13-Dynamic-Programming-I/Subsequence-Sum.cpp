@@ -12,14 +12,10 @@ bool is_subsequence_sum(int* arr, int n, int curr_sum) {
         return false;
     if (memo[n][curr_sum] != -1)
         return memo[n][curr_sum];
-    // If last element is greater than sum, then ignore it
-    if (arr[n - 1] > curr_sum) {
+    if (arr[n-1] > curr_sum) {
         memo[n][curr_sum] = is_subsequence_sum(arr, n-1, curr_sum);
         return memo[n][curr_sum];
     }
-    // else, check if sum can be obtained by any of the following:
-    //  (a) including the last element
-    //  (b) excluding the last element
     bool choice1 = is_subsequence_sum(arr, n-1, curr_sum);
     bool choice2 = is_subsequence_sum(arr, n-1, curr_sum - arr[n-1]);
     memo[n][curr_sum] = choice1 || choice2;
@@ -29,13 +25,10 @@ bool is_subsequence_sum(int* arr, int n, int curr_sum) {
 int dp[N][N];
 
 bool is_subsequence_sum_iterative(int* arr, int n, int curr_sum) {
-    // If sum is 0, then answer is true
     for (int i = 0; i <= n; i++)
         dp[i][0] = true;
-    // If sum is not 0 and set is empty, then answer is false
     for (int i = 1; i <= curr_sum; i++)
         dp[0][i] = false;
-    // Fill the subset table in botton up manner
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= curr_sum; j++) {
             if (j < arr[i-1])
