@@ -10,25 +10,39 @@ int knapsack(int total_wt, int* wt, int* val, int n) {
         return 0;
     if (memo[total_wt][n] != -1)
         return memo[total_wt][n];
-    // If weight of the nth item is more than Knapsack capacity W, 
-    // then this item cannot be included in the optimal solution 
     if (wt[n-1] > total_wt) {
         memo[total_wt][n] = knapsack(total_wt, wt, val, n-1);
         return memo[total_wt][n];
     }
-    // Return the maximum of two cases: 
-    // (1) n-th item included 
-    // (2) not included 
     int choice1 = knapsack(total_wt - wt[n-1], wt, val, n-1) + val[n-1];
     int choice2 = knapsack(total_wt, wt, val, n-1); 
     memo[total_wt][n] = max(choice1, choice2);
     return memo[total_wt][n];
 }
 
+void solution(int total_wt, int* wt, int* val, int n, vector<int> &v) {
+    if (n == 0 || total_wt == 0)
+        return;
+    vector<int> v1, v2;
+    if (wt[n-1] > total_wt)
+        return solution(total_wt, wt, val, n-1, v2);
+    v1.push_back(n-1);
+    int choice1 = knapsack(total_wt - wt[n-1], wt, val, n-1) + val[n-1];
+    int choice2 = knapsack(total_wt, wt, val, n-1);
+    if (choice1 >= choice2) {
+        solution(total_wt - wt[n-1], wt, val, n-1, v1);
+        for (int i : v1) v.push_back(i);
+    }
+    else {
+        solution(total_wt, wt, val, n-1, v2);
+        for (int i : v2) v.push_back(i);
+    }
+    return;
+}
+
 int dp[N][N];
 
 int knapsack_iterative(int total_wt, int* wt, int* val, int n) {
-    // Build table dp[][] in bottom up manner 
     for (int i = 0; i <= n; i++) {
         for (int w = 0; w <= total_wt; w++) {
             if (i == 0 || w == 0)
@@ -45,24 +59,17 @@ int knapsack_iterative(int total_wt, int* wt, int* val, int n) {
     return dp[n][total_wt];
 }
 
-void print_solution(int total_wt, int* wt, int* val, int n) {
-    // stores the result of Knapsack 
+void solution_iterative(int total_wt, int* wt, int* val, int n) {
     int res = dp[n][total_wt];
-    cout << "Solution is " << res << " and the Selected items are\n";
     int curr_w = total_wt;
-    for (int i = n; i > 0 && res > 0; i--) {
-        // either the result comes from the top (dp[i-1][w]) or 
-        // from (val[i-1] + dp[i-1][w-wt[i-1]]) as in Knapsack table. 
-        // If it comes from the latter one/ it means the item is included. 
-        if (res == dp[i-1][curr_w])
-            continue;
-        else {
-            // This item is included. 
-            cout << "index " << i-1 << " item " << wt[i-1] << '\n';
-            // Since this weight is included its value is deducted 
-            res = res - val[i - 1];
-            curr_w -= wt[i - 1];
-        }
+	int i = n;
+    while (i > 0 && res > 0) {
+        if (res != dp[i-1][curr_w]) {
+			cout << "item " << wt[i-1] << " with value " << val[i-1] << '\n';
+			res -= val[i - 1];
+			curr_w -= wt[i - 1];
+		}
+		i --;
     }
 }
 
@@ -73,6 +80,11 @@ int main() {
     int total_wt = 120;
     memset(memo, -1, sizeof memo);
     cout << "(Recursive) knapsack " << knapsack(total_wt, wt, val, n) << '\n';
+    cout << "(Recursive) Selected items\n";
+    vector<int> v;
+    solution(total_wt, wt, val, n, v);
+    for (int i : v) cout << "item " << wt[i] << " with value " << val[i] << '\n';
     cout << "(Iterative) knapsack " << knapsack_iterative(total_wt, wt, val, n) << '\n';
-    print_solution(total_wt, wt, val, n);
+    cout << "(Iterative) Selected items\n";
+	solution_iterative(total_wt, wt, val, n);
 }
