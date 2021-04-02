@@ -2,7 +2,7 @@ N = int(1e3+3)
 
 memo = [[-1 for i in range(N)] for j in range(N)]
 
-def longest_palindrome(s, i, j):
+def LPS(s, i, j):
     if i > j:
         return 0
     if i == j:
@@ -19,7 +19,7 @@ def longest_palindrome(s, i, j):
 
 dp = [[-1 for i in range(N)] for j in range(N)]
 
-def longest_palindrome_iterative(s, t, n):
+def LPS_iterative(s, t, n):
     for i in range(n+1):
         for j in range(n+1):
             if i == 0 or j == 0:
@@ -33,5 +33,5 @@ def longest_palindrome_iterative(s, t, n):
 n = 8
 s = "ABBDCACB"
 t = s[::-1]
-print("(Recursive) Longest Palindrome Length is", longest_palindrome(s, 0, n-1))
-print("(Iterative) Longest Palindrome Length is", longest_palindrome_iterative(s, t, n))
+print("(Recursive) Longest Palindrome Length is", LPS(s, 0, n-1))
+print("(Iterative) Longest Palindrome Length is", LPS_iterative(s, t, n))
