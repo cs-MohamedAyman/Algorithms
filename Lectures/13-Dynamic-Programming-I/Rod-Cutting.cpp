@@ -29,7 +29,7 @@ int rod_cut_iterative(int* price, int rod_len, int n) {
             if (j == 0 || i == 0)
                 dp[i][j] = 0;
             else if (j >= i)
-                dp[i][j] = max(dp[i-1][j], price[i-1]+dp[i][j-i]);
+                dp[i][j] = max(dp[i-1][j], price[i-1] + dp[i][j-i]);
             else
                 dp[i][j] = dp[i-1][j];
         }
