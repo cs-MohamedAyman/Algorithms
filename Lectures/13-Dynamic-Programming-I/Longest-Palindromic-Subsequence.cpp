@@ -5,7 +5,7 @@ int const N = 1e3+3;
 
 int memo[N][N];
 
-int longest_palindrome(string s, int i, int j) {
+int LPS(string s, int i, int j) {
     if (i > j)
         return 0;
     if (i == j)
@@ -24,7 +24,7 @@ int longest_palindrome(string s, int i, int j) {
 
 int dp[N][N];
 
-int longest_palindrome_iterative(string s, string t, int n) {
+int LPS_iterative(string s, string t, int n) {
     for (int i = 0; i <= n; i++) {
         for (int j = 0; j <= n; j++) {
 			if (i == 0 || j == 0)
@@ -44,6 +44,6 @@ int main() {
 	string t = s;
 	reverse(t.begin(), t.end());
     memset(memo, -1, sizeof memo);
-    cout << "(Recursive) Longest Palindrome Length is " << longest_palindrome(s, 0, n-1) << '\n';
-    cout << "(Iterative) Longest Palindrome Length is " << longest_palindrome_iterative(s, t, n) << '\n';
+    cout << "(Recursive) Longest Palindrome Length is " << LPS(s, 0, n-1) << '\n';
+    cout << "(Iterative) Longest Palindrome Length is " << LPS_iterative(s, t, n) << '\n';
 }
