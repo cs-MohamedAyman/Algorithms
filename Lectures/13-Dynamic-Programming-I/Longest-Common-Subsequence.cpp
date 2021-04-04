@@ -14,12 +14,10 @@ int lcs(char* X, char* Y, int m, int n) {
         memo[m][n] = 1 + lcs(X, Y, m-1, n-1);
         return memo[m][n];
     }
-    else {
-        int choice1 = lcs(X, Y, m, n-1);
-        int choice2 = lcs(X, Y, m-1, n);
-        memo[m][n] = max(choice1, choice2);
-        return memo[m][n];
-    }
+    int choice1 = lcs(X, Y, m, n-1);
+    int choice2 = lcs(X, Y, m-1, n);
+    memo[m][n] = max(choice1, choice2);
+    return memo[m][n];
 }
 
 string solution(char* X, char* Y, int m, int n) {
