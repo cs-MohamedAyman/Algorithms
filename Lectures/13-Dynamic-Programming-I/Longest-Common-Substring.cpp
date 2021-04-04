@@ -11,9 +11,8 @@ int lcs(char* X, char* Y, int m, int n, int cnt) {
     if (memo[m][n] != -1)
         return memo[m][n];
 	int choice1 = cnt, choice2 = 0, choice3 = 0;
-    if (X[m] == Y[n]) {
+    if (X[m] == Y[n])
         choice1 = lcs(X, Y, m-1, n-1, cnt+1);
-    }
     choice2 = lcs(X, Y, m, n-1, 0);
     choice3 = lcs(X, Y, m-1, n, 0);
 	memo[m][n] = max(max(choice1, choice2), choice3);
