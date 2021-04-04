@@ -1,3 +1,4 @@
+  
 #include <bits/stdc++.h> 
 using namespace std; 
 
@@ -8,12 +9,10 @@ int memo[N][N];
 int coin_change(int* arr, int n, int m) {
     if (m == 0)
         return 1;
-    if (m < 0)
+    if (n == 0 || m < 0)
         return 0;
     if (memo[n][m] != -1)
         return memo[n][m];
-    if (n == 0 && m >= 1)
-        return 0;
     int choice1 = coin_change(arr, n-1, m);
     int choice2 = coin_change(arr, n, m-arr[n-1]);
     memo[n][m] = choice1 + choice2;
