@@ -10,11 +10,10 @@ def lcs(X, Y, m, n):
     if X[m] == Y[n]:
         memo[m][n] = 1 + lcs(X, Y, m-1, n-1)
         return memo[m][n]
-    else:
-        choice1 = lcs(X, Y, m, n-1)
-        choice2 = lcs(X, Y, m-1, n)
-        memo[m][n] = max(choice1, choice2)
-        return memo[m][n]
+    choice1 = lcs(X, Y, m, n-1)
+    choice2 = lcs(X, Y, m-1, n)
+    memo[m][n] = max(choice1, choice2)
+    return memo[m][n]
 
 def solution(X, Y, m, n):
     if m == -1 or n == -1:
