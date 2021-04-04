@@ -10,10 +10,10 @@ def lps(s, i, j):
     if memo[i][j] != -1:
         return memo[i][j]
     if s[i] == s[j]:
-        memo[i][j] = longest_palindrome(s, i+1, j-1) + 2
+        memo[i][j] = lps(s, i+1, j-1) + 2
         return memo[i][j]
-    choice1 = longest_palindrome(s, i, j-1)
-    choice2 = longest_palindrome(s, i+1, j)
+    choice1 = lps(s, i, j-1)
+    choice2 = lps(s, i+1, j)
     memo[i][j] = max(choice1, choice2)
     return memo[i][j]
 
