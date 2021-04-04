@@ -13,11 +13,11 @@ int lps(string s, int i, int j) {
 	if (memo[i][j] != -1)
 		return memo[i][j];
     if (s[i] == s[j]) {
-        memo[i][j] = longest_palindrome(s, i+1, j-1) + 2;
+        memo[i][j] = lps(s, i+1, j-1) + 2;
 		return memo[i][j];
 	}
-	int choice1 = longest_palindrome(s, i, j-1);
-	int choice2 = longest_palindrome(s, i+1, j);
+	int choice1 = lps(s, i, j-1);
+	int choice2 = lps(s, i+1, j);
     memo[i][j] = max(choice1, choice2);
 	return memo[i][j];
 }
