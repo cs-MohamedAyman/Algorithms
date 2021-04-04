@@ -5,12 +5,10 @@ memo = [[-1 for i in range(N)] for j in range(N)]
 def coin_change(arr, n, m):
     if m == 0:
         return 1
-    if m < 0:
+    if n == 0 or m < 0:
         return 0
     if memo[n][m] != -1:
         return memo[n][m]
-    if n == 0 and m >= 1:
-        return 0
     choice1 = coin_change(arr, n-1, m)
     choice2 = coin_change(arr, n, m-arr[n-1])
     memo[n][m] = choice1 + choice2
