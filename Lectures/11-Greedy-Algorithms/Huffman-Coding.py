@@ -1,25 +1,25 @@
 class node:
-    def __init__(self, freq, symbol, left=None, right=None):
+    def __init__(self, freq, symbol, left=None, right=None, huff=''):
         self.freq = freq
         self.symbol = symbol
         self.left = left
         self.right = right
-        self.huff = ''
+        self.huff = huff
  
 def print_nodes(node, val = ''):
     new_val = val + str(node.huff)
-    if(node.left):
+    if (node.left):
         print_nodes(node.left, new_val)
-    if(node.right):
+    if (node.right):
         print_nodes(node.right, new_val)
-    if(not node.left and not node.right):
+    if (not node.left and not node.right):
         print(node.symbol, "->", new_val)
  
 chars = ['a', 'b', 'c', 'd', 'e', 'f']
 freq  = [ 5,   9,   12,  13,  16, 45 ]
 nodes = []
-for x in range(len(chars)):
-    nodes.append(node(freq[x], chars[x]))
+for i in range(len(chars)):
+    nodes.append(node(freq[i], chars[i]))
 while len(nodes) > 1:
     nodes = sorted(nodes, key=lambda x: x.freq)
     left = nodes[0]
