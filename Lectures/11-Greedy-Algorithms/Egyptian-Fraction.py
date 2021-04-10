@@ -10,6 +10,6 @@ def egyptian_fraction(nr, dr):
         if i < len(ef) - 1:
             print(' + ', end='')
 
-nr, dr, = 6, 14
+nr, dr = 6, 14
 print("The Egyptian Fraction Representation of %d/%d is" % (nr, dr))
 egyptian_fraction(nr, dr)
