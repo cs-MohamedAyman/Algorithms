@@ -14,20 +14,35 @@ def print_nodes(node, val = ''):
         print_nodes(node.right, new_val)
     if (not node.left and not node.right):
         print(node.symbol, "->", new_val)
- 
-chars = ['a', 'b', 'c', 'd', 'e', 'f']
-freq  = [ 5,   9,   12,  13,  16, 45 ]
-nodes = []
-for i in range(len(chars)):
-    nodes.append(node(freq[i], chars[i]))
-while len(nodes) > 1:
-    nodes = sorted(nodes, key=lambda x: x.freq)
-    left = nodes[0]
-    right = nodes[1]
-    left.huff = 0
-    right.huff = 1
-    new_node = node(left.freq+right.freq, left.symbol+right.symbol, left, right)
-    nodes.remove(left)
-    nodes.remove(right)
-    nodes.append(new_node)
-print_nodes(nodes[0])
+        codes[node.symbol] = new_val
+
+def huffman_codes(chars, freq):
+    nodes = []
+    for i in range(len(chars)):
+        nodes.append(node(freq[i], chars[i]))
+    while len(nodes) > 1:
+        nodes = sorted(nodes, key=lambda x: x.freq)
+        left = nodes[0]
+        right = nodes[1]
+        left.huff = 0
+        right.huff = 1
+        new_node = node(left.freq+right.freq, left.symbol+right.symbol, left, right)
+        nodes.remove(left)
+        nodes.remove(right)
+        nodes.append(new_node)
+    root = nodes[0]
+    return root
+
+def encoding(codes):
+    encoded_string = ''
+    for i in s: encoded_string += codes[i]
+    return encoded_string
+
+s = "aafffafffcccaffffbeeefffffbbcccfffffccceeeefffdddeeeeeffccffddfffbbbbbbdddafffffddddeeeeffffcdffffff"
+chars = list(set(s))
+freq  = [s.count(i) for i in chars]
+root = huffman_codes(chars, freq)
+codes = {}
+print_nodes(root)
+encoded_string = encoding(codes)
+print('Encoded huffman data:\n' + encoded_string)
