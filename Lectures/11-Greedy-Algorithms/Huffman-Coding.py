@@ -36,7 +36,7 @@ def huffman_codes(chars, freq):
     root = nodes[0]
     return root
 
-def encoding(codes):
+def encoding(s, codes):
     encoded_string = ''
     for i in s: encoded_string += codes[i]
     return encoded_string
@@ -47,5 +47,5 @@ freq  = [s.count(i) for i in chars]
 root = huffman_codes(chars, freq)
 codes = {}
 print_nodes(root, codes)
-encoded_string = encoding(codes)
+encoded_string = encoding(s, codes)
 print('Encoded huffman data:\n' + encoded_string)
