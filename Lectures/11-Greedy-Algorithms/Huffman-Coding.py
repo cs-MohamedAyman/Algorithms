@@ -26,7 +26,10 @@ def huffman_codes(chars, freq):
         right = nodes[1]
         left.huff = 0
         right.huff = 1
-        new_node = node(left.freq+right.freq, left.symbol+right.symbol, left, right)
+        new_node = node(left.freq+right.freq, 
+                        left.symbol+right.symbol, 
+                        left, 
+                        right)
         nodes.remove(left)
         nodes.remove(right)
         nodes.append(new_node)
