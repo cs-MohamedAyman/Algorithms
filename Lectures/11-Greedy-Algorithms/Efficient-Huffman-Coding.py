@@ -10,12 +10,12 @@ class node:
     def __lt__(self, x):
         return x.freq > self.freq
 
-def print_nodes(node, val = ''):
+def print_nodes(node, codes, val = ''):
     new_val = val + str(node.huff)
     if (node.left):
-        print_nodes(node.left, new_val)
+        print_nodes(node.left, codes, new_val)
     if (node.right):
-        print_nodes(node.right, new_val)
+        print_nodes(node.right, codes, new_val)
     if (not node.left and not node.right):
         print(node.symbol, "->", new_val)
         codes[node.symbol] = new_val
@@ -48,6 +48,6 @@ chars = list(set(s))
 freq  = [s.count(i) for i in chars]
 root = huffman_codes(chars, freq)
 codes = {}
-print_nodes(root)
+print_nodes(root, codes)
 encoded_string = encoding(codes)
 print('Encoded huffman data:\n' + encoded_string)
