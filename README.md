@@ -26,8 +26,8 @@ Algorithms analysis and design lectures for computer science students.
 ### `Lecture 10` - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
 ### `Lecture 11` - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms)
 ### `Lecture 12` - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Brute-Force-Algorithms)
-### `Lecture 13` - [Dynammic Programming I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Dynamic-Programming-I)
-### `Lecture 14` - [Dynammic Programming II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Dynamic-Programming-II)
+### `Lecture 13` - [Dynamic Programming I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Dynamic-Programming-I)
+### `Lecture 14` - [Dynamic Programming II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Dynamic-Programming-II)
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
