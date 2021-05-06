@@ -9,27 +9,185 @@ Algorithms analysis and design lectures for computer science students.
 ## `Part 1` Basic Algorithms `40 hrs`
 
 ### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 02` - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 03` - [Sorting Algorithms II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 04` - [Searching Algorithms I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 05` - [Searching Algorithms II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 06` - [Decrease and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 07` - [Divide and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 08` - [Transform and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
 
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` Graph Algorithms and Dynammic Programming `40 Hrs`
+## `Part 2` Graph Algorithms and Dynamic Programming `40 Hrs`
 
 ### `Lecture 09` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 10` - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 11` - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 12` - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 13` - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 14` - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 15` - [Dynamic Programming I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 16` - [Dynamic Programming II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
