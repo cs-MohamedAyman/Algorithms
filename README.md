@@ -1,38 +1,40 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Algorithms-Analysis-and-Design `80H`
+# Algorithms-Analysis-and-Design
 Algorithms analysis and design lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 1` Basic Algorithms `40H`
+## `Part 1` Basic Algorithms `40 hrs`
 
-### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-01-Complexity-Analysis)
-### `Lecture 02` - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-02-Sorting-Algorithms-I)
-### `Lecture 03` - [Sorting Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-03-Sorting-Algorithms-II)
-### `Lecture 04` - [Searching Algorithms I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-04-Searching-Algorithms-I)
-### `Lecture 05` - [Searching Algorithms II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-05-Searching-Algorithms-II)
-### `Lecture 06` - [Divide and Conquer Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-06-Divide-and-Conquer-Algorithms)
+### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 02` - [Sorting Algorithms I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 03` - [Sorting Algorithms II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 04` - [Searching Algorithms I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 05` - [Searching Algorithms II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 06` - [Decrease and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 07` - [Divide and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 08` - [Transform and Conquer](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` Graph Algorithms and Dynammic Programming `40H`
+## `Part 2` Graph Algorithms and Dynammic Programming `40 Hrs`
 
-### `Lecture 07` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-07-Introduction-to-Graph)
-### `Lecture 08` - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-08-Shortest-Path-Algorithms)
-### `Lecture 09` - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-09-Spanning-Tree-Algorithms)
-### `Lecture 10` - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-10-Advanced-Graph-Algorithms)
-### `Lecture 11` - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-11-Greedy-Algorithms)
-### `Lecture 12` - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-12-Brute-Force-Algorithms)
-### `Lecture 13` - [Dynamic Programming I](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-13-Dynamic-Programming-I)
-### `Lecture 14` - [Dynamic Programming II](https://github.com/cs-MohamedAyman/Algorithms/tree/master/Lecture-14-Dynamic-Programming-II)
+### `Lecture 09` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 10` - [Shortest Path Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 11` - [Spanning Tree Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 12` - [Advanced Graph Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 13` - [Greedy Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 14` - [Brute Force Algorithms](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 15` - [Dynamic Programming I](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
+### `Lecture 16` - [Dynamic Programming II](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -45,21 +47,20 @@ Algorithms analysis and design lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `100H`
+## `Educational-Projects` `10 hrs`/`Project`
 
-### `Project 01` -
-### `Project 02` -
-### `Project 03` -
-### `Project 04` -
-### `Project 05` -
-### `Project 06` -
-### `Project 07` -
-### `Project 08` -
-### `Project 09` -
-### `Project 10` -
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
