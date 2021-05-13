@@ -6,7 +6,7 @@ Algorithms analysis and design lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 1` Basic Algorithms `40 hrs`
+## `Part 1` Basic Algorithms `35 hrs`
 
 ### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 <details>
@@ -99,7 +99,7 @@ Algorithms analysis and design lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 2` Graph Algorithms and Dynamic Programming `40 Hrs`
+## `Part 2` Graph Algorithms and Dynamic Programming `35 Hrs`
 
 ### `Lecture 09` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 <details>
