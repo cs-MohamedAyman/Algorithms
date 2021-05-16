@@ -1,12 +1,13 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
-
 # Algorithms-Analysis-and-Design
 Algorithms analysis and design lectures for computer science students.
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<br>
 <br>
 
 ## `Part 1` Basic Algorithms `35 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 01` - [Complexity Analysis](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 <details>
@@ -96,10 +97,13 @@ Algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<br>
 <br>
 
 ## `Part 2` Graph Algorithms and Dynamic Programming `35 Hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 09` - [Introduction to Graph](https://github.com/cs-MohamedAyman/Algorithms-Analysis-and-Design/tree/master/Lectures/README.md)
 <details>
@@ -189,26 +193,32 @@ Algorithms analysis and design lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<br>
 <br>
 
 ## `Assignments` `5 hrs`/`Assignment`
 
-### `Assignment 01` - 
-### `Assignment 02` - 
-### `Assignment 03` - 
-### `Assignment 04` - 
-### `Assignment 05` - 
-### `Assignment 06` - 
-### `Assignment 07` - 
-### `Assignment 08` - 
-### `Assignment 09` - 
-### `Assignment 10` - 
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+### `Assignment 01` - Data Structure Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 02` - String Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 03` - Mathematics Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 04` - Greedy Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 05` - Brute Force Problems in [codeforces-phase-2-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-3)
+### `Assignment 06` - Data Structure Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 07` - String Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 08` - Mathematics Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 09` - Greedy Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+### `Assignment 10` - Brute Force Problems in [codeforces-phase-2-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-2/codeforces-phase-2-4)
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms-analysis.jpg">
+<br>
 <br>
 
 ## `Educational-Projects` `10 hrs`/`Project`
+
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
