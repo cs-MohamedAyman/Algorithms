@@ -244,21 +244,10 @@ Algorithms analysis and design lectures for computer science students.
 * ***The Algorithm Design Manual***, Steven S. Skiena
 * ***Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles***, Narasimha Karumanchi
 
-<img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## `Coursera-Specializations`
+## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
-* ***Accelerated Computer Science Fundamentals Specialization*** by University of Illinois at Urbana-Champaign
-* ***Algorithms Specialization*** by Stanford University
-* ***Data Structures and Algorithms Specialization*** by University of California San Diego and National Research University Higher School of Economics
-* ***Algorithms, Part I*** by Princeton University
-* ***Algorithms, Part II*** by Princeton University
-* ***Geometric Algorithms*** by EIT Digital
-* ***Approximation Algorithms*** by EIT Digital
-* ***Computational Geometry*** by Saint Petersburg State University
-* ***Competitive Programmer's Core Skills*** by Saint Petersburg State University
-* ***Analysis of Algorithms*** by Princeton University
-
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
